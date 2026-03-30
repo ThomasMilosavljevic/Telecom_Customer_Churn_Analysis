@@ -1,5 +1,3 @@
-![Dashboard](dashboard/page1_overview.png)
-
 # Telecom Customer Churn Analysis
 
 ![SQL](https://img.shields.io/badge/SQL-SQLite-blue)
