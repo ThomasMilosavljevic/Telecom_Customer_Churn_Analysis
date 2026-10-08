@@ -50,12 +50,6 @@ This project analyzes customer churn for a California-based telecom company. Usi
 | #1 churn reason | Competitor had better devices (16.7%) |
 
 ---
-
-## 🔗 Links
-
-- [Full Analysis and Recommendations](analysis/analysis.md)
-- [SQL Queries](sql/telecom_churn_analysis.sql)
-
 ---
 
 *Dataset: [Maven Analytics Data Playground](https://mavenanalytics.io/data-playground)*
